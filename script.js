@@ -29,9 +29,9 @@ yesBtn.addEventListener("click", () => {
   startConfetti();
 
   card.innerHTML = `
-    <h1>Happy Valentine’s Day 💖</h1>
+    <h1> Yaaaay! 💕 </h1>
     <p class="text">
-      Ale mam...Ez 🌹 
+      Ale mam ...Ez 🌹 
       <br><br>
       Kocham cię robaczku.  
       Jesteś moim całym światem...  
@@ -71,4 +71,5 @@ function drawConfetti() {
   });
   requestAnimationFrame(drawConfetti);
 }
+
 
