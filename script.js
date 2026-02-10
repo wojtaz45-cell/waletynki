@@ -25,11 +25,11 @@ yesBtn.addEventListener("click", () => {
     document.querySelector(".card").innerHTML = `
         <h1>Yaaaay! 💕</h1>
         <p class="question">
-            Naprawdę bardzo się cieszę 🥹  
+        Ale ma...Ez 🌹🌹
             <br><br>
-            Dziękuję Ci, Natalko.  
-            Obiecuję dużo uśmiechów, ciepłych chwil  
-            i jeszcze więcej powodów do „aww” 💖
+            Kocham Cię Robaczku.
+            Jesteś moim całym światem.
+            Buziaczki” 💖💖💖
         </p>
         <img class="gif"
              src="https://tenor.com/pl/view/happy-valentines-day-love-happy-valentines-day-my-love-i-love-you-love-happy-valentines-day-gif-7872935811532978148">
@@ -38,6 +38,7 @@ yesBtn.addEventListener("click", () => {
 
     initConfetti();
 });
+
 
 
 
