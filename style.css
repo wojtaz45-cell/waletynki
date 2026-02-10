@@ -39,11 +39,12 @@ h2 {
 }
 
 .gif {
+  max-width: 220px;
   width: 100%;
-  max-width: 240px;
-  border-radius: 16px;
-  margin: 20px auto;
+  margin: 20px auto 0;
+  display: block;
 }
+
 
 .buttons {
   display: flex;
@@ -92,3 +93,4 @@ canvas {
   inset: 0;
   pointer-events: none;
 }
+
