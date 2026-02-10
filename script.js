@@ -10,7 +10,7 @@ yesBtn.addEventListener("click", () => {
     document.querySelector(".card").innerHTML = `
         <h1>Yaaaay! 💕</h1>
         <p class="question">
-            Ale ma Ez 🥹  
+            Ale ma...Ez 🌹🌹  
             <br><br>
             Kocham Cię Robaczku.  
             Jesteś moim całym światem.  
@@ -24,6 +24,7 @@ yesBtn.addEventListener("click", () => {
 
     initConfetti();
 });
+
 
 
 
