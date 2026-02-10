@@ -38,13 +38,12 @@ yesBtn.addEventListener("click", () => {
       Buziaczki ❤️
     </p>
     <img
-    class="gif"
-    src="https://media.tenor.com/uPcZ_dxgBKUAAAAi/cant-stop-loving-you-forever.gif"
-    alt="Can't stop loving you"
-  />
-`;
-/>
+      class="gif"
+      src="https://media.tenor.com/uPcZ_dxgBKUAAAAi/cant-stop-loving-you-forever.gif"
+      alt="Love forever"
     />
+
+    <div class="signature">— Wojti</div>
   `;
 });
 
@@ -72,6 +71,7 @@ function drawConfetti() {
   });
   requestAnimationFrame(drawConfetti);
 }
+
 
 
 
