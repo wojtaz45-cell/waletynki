@@ -37,10 +37,10 @@ yesBtn.addEventListener("click", () => {
       Jesteś moim całym światem...  
       Buziaczki ❤️
     </p>
-    <img
+     <img
       class="gif"
-      src="https://media.tenor.com/uPcZ_dxgBKUAAAAi/cant-stop-loving-you-forever.gif"
-      alt="Love forever"
+      src="https://media.tenor.com/rwAWhystcgQAAAAi/happy-valentines-day-love-happy-valentines-day-my-love.gif"
+      alt="Valentine love"
     />
 
     <div class="signature">— Wojti</div>
@@ -71,6 +71,7 @@ function drawConfetti() {
   });
   requestAnimationFrame(drawConfetti);
 }
+
 
 
 
