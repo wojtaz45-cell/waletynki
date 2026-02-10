@@ -40,8 +40,9 @@ yesBtn.addEventListener("click", () => {
     <img
      <img
   class="gif"
-  src="https://media.tenor.com/8tJpQmK5cS4AAAAC/happy-valentines-day-love.gif"
+  src="<div class="tenor-gif-embed" data-postid="13328150200340972709" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cant-stop-loving-you-forever-together-engaged-marriage-gif-13328150200340972709">Cant Stop Loving You Forever Sticker</a>from <a href="https://tenor.com/search/cant+stop+loving+you-stickers">Cant Stop Loving You Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   alt="Happy Valentine"
+
 />
     />
   `;
@@ -71,5 +72,6 @@ function drawConfetti() {
   });
   requestAnimationFrame(drawConfetti);
 }
+
 
 
