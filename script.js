@@ -23,9 +23,10 @@ yesBtn.addEventListener("click", () => {
             <p class="question">
                 Naprawdę bardzo się cieszę 🥹  
                 <br><br>
-                Dziękuję Ci, Natalko.  
-                Obiecuję dużo uśmiechów, ciepłych chwil  
-                i jeszcze więcej powodów do „aww” 💖
+                Kocham cię robaczku.  
+                Jesteś dla mnie całym światem.
+                Buziaczki 💖💖
+                               
             </p>
             <img class="gif"
                  src="https://media.tenor.com/-FI5WRxJ23kAAAAi/peach-goma-love.gif">
@@ -35,3 +36,4 @@ yesBtn.addEventListener("click", () => {
 
     initConfetti();
 });
+
