@@ -31,16 +31,18 @@ yesBtn.addEventListener("click", () => {
   card.innerHTML = `
     <h1>Happy Valentine’s Day 💖</h1>
     <p class="text">
-      Nawet nie wiesz, jak bardzo się cieszę 🥹  
+      Ale mam...Ez 🌹 
       <br><br>
-      Dziękuję Ci, Natalko.  
-      Mam nadzieję, że ten dzień to dopiero początek  
-      wielu pięknych chwil razem ❤️
+      Kocham cię robaczku.  
+      Jesteś moim całym światem...  
+      Buziaczki ❤️
     </p>
     <img
-      class="gif"
-      src="https://tenor.com/pl/view/happy-valentines-day-love-happy-valentines-day-my-love-i-love-you-love-happy-valentines-day-gif-7872935811532978148"
-      alt="happy valentine gif"
+     <img
+  class="gif"
+  src="https://media.tenor.com/8tJpQmK5cS4AAAAC/happy-valentines-day-love.gif"
+  alt="Happy Valentine"
+/>
     />
   `;
 });
@@ -69,3 +71,4 @@ function drawConfetti() {
   });
   requestAnimationFrame(drawConfetti);
 }
+
